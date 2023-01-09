@@ -1,0 +1,12 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\bin\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\bin\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\bin\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\refint\Maquisistema.Fondos.Application.Validatores.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\Maquisistema.Fondos.Application.Validatores.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Validatores\obj\Debug\net6.0\ref\Maquisistema.Fondos.Application.Validatores.dll

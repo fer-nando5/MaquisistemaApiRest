@@ -1,0 +1,15 @@
+{
+  "Maquisistema.Fondos.Application.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.DTO",
+  "Maquisistema.Fondos.Application.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface",
+  "Maquisistema.Fondos.Application.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Main",
+  "Maquisistema.Fondos.Dominio.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Core",
+  "Maquisistema.Fondos.Dominio.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Entity",
+  "Maquisistema.Fondos.Dominio.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Interface",
+  "Maquisistema.Fondos.Infraestructura.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data",
+  "Maquisistema.Fondos.Infraestructura.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Interface",
+  "Maquisistema.Fondos.Infraestructura.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Repository",
+  "Maquisistema.Fondos.Services.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Services.WebApi",
+  "Maquisistema.Fondos.Transversal.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common",
+  "Maquisistema.Fondos.Transversal.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Logging",
+  "Maquisistema.Fondos.Transversal.Mapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Mapper"
+}

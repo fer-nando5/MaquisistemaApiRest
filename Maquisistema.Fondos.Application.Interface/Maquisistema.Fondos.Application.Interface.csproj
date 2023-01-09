@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Maquisistema.Fondos.Application.DTO\Maquisistema.Fondos.Application.DTO.csproj" />
+    <ProjectReference Include="..\Maquisistema.Fondos.Transversal.Common\Maquisistema.Fondos.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

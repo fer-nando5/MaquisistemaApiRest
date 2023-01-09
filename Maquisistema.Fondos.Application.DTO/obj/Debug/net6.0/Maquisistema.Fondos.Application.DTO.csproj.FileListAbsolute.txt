@@ -1,0 +1,12 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\refint\Maquisistema.Fondos.Application.DTO.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\Maquisistema.Fondos.Application.DTO.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.DTO\obj\Debug\net6.0\ref\Maquisistema.Fondos.Application.DTO.dll

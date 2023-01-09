@@ -1,0 +1,17 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\bin\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.csproj.CopyComplete
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\refint\Maquisistema.Fondos.Transversal.Mapper.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Mapper.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Mapper\obj\Debug\net6.0\ref\Maquisistema.Fondos.Transversal.Mapper.dll

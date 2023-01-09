@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzEmHxZ5NLRXE2BzrJvLMhX1A2OVhphvAltYrw6tsdp4zZneJbXr8olhD139IGTjv9ASD/49RPYlwejmcmAUiA==",
+  "success": true,
+  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Mapper\\Maquisistema.Fondos.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

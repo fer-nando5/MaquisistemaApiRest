@@ -1,0 +1,432 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AutoMapper/12.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "7.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Maquisistema.Fondos.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Maquisistema.Fondos.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maquisistema.Fondos.Application.DTO.dll": {}
+        }
+      },
+      "Maquisistema.Fondos.Application.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Maquisistema.Fondos.Application.DTO": "1.0.0",
+          "Maquisistema.Fondos.Transversal.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Maquisistema.Fondos.Application.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maquisistema.Fondos.Application.Interface.dll": {}
+        }
+      },
+      "Maquisistema.Fondos.Dominio.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Maquisistema.Fondos.Dominio.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maquisistema.Fondos.Dominio.Entity.dll": {}
+        }
+      },
+      "Maquisistema.Fondos.Dominio.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Maquisistema.Fondos.Dominio.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Maquisistema.Fondos.Dominio.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maquisistema.Fondos.Dominio.Interface.dll": {}
+        }
+      },
+      "Maquisistema.Fondos.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Maquisistema.Fondos.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maquisistema.Fondos.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoMapper/12.0.0": {
+      "sha512": "0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
+      "type": "package",
+      "path": "automapper/12.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.12.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.dll",
+        "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "type": "package",
+      "path": "microsoft.csharp/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/Microsoft.CSharp.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.3/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/uap10.0.16299/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
+        "microsoft.csharp.nuspec",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/Microsoft.CSharp.dll",
+        "ref/netcore50/Microsoft.CSharp.xml",
+        "ref/netcore50/de/Microsoft.CSharp.xml",
+        "ref/netcore50/es/Microsoft.CSharp.xml",
+        "ref/netcore50/fr/Microsoft.CSharp.xml",
+        "ref/netcore50/it/Microsoft.CSharp.xml",
+        "ref/netcore50/ja/Microsoft.CSharp.xml",
+        "ref/netcore50/ko/Microsoft.CSharp.xml",
+        "ref/netcore50/ru/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hans/Microsoft.CSharp.xml",
+        "ref/netcore50/zh-hant/Microsoft.CSharp.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/Microsoft.CSharp.dll",
+        "ref/netstandard1.0/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/de/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/es/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/fr/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/it/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ja/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ko/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/ru/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hans/Microsoft.CSharp.xml",
+        "ref/netstandard1.0/zh-hant/Microsoft.CSharp.xml",
+        "ref/netstandard2.0/Microsoft.CSharp.dll",
+        "ref/netstandard2.0/Microsoft.CSharp.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/uap10.0.16299/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
+      "sha512": "IeimUd0TNbhB4ded3AbgBLQv2SnsiVugDyGV1MvspQFVlA07nDC7Zul7kcwH5jWN3JiTcp/ySE83AIJo8yfKjg==",
+      "type": "package",
+      "path": "microsoft.extensions.caching.abstractions/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Caching.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Caching.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
+        "microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.caching.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/7.0.0": {
+      "sha512": "um1KU5kxcRp3CNuI8o/GrZtD4AIOXDk+RLsytjZ9QPok3ttLUelLKpilVPuaFT3TFjOhSibUAso0odbOaCDj3Q==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Primitives.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Primitives.targets",
+        "lib/net462/Microsoft.Extensions.Primitives.dll",
+        "lib/net462/Microsoft.Extensions.Primitives.xml",
+        "lib/net6.0/Microsoft.Extensions.Primitives.dll",
+        "lib/net6.0/Microsoft.Extensions.Primitives.xml",
+        "lib/net7.0/Microsoft.Extensions.Primitives.dll",
+        "lib/net7.0/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Maquisistema.Fondos.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Maquisistema.Fondos.Application.DTO/Maquisistema.Fondos.Application.DTO.csproj",
+      "msbuildProject": "../Maquisistema.Fondos.Application.DTO/Maquisistema.Fondos.Application.DTO.csproj"
+    },
+    "Maquisistema.Fondos.Application.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Maquisistema.Fondos.Application.Interface/Maquisistema.Fondos.Application.Interface.csproj",
+      "msbuildProject": "../Maquisistema.Fondos.Application.Interface/Maquisistema.Fondos.Application.Interface.csproj"
+    },
+    "Maquisistema.Fondos.Dominio.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Maquisistema.Fondos.Dominio.Entity/Maquisistema.Fondos.Dominio.Entity.csproj",
+      "msbuildProject": "../Maquisistema.Fondos.Dominio.Entity/Maquisistema.Fondos.Dominio.Entity.csproj"
+    },
+    "Maquisistema.Fondos.Dominio.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Maquisistema.Fondos.Dominio.Interface/Maquisistema.Fondos.Dominio.Interface.csproj",
+      "msbuildProject": "../Maquisistema.Fondos.Dominio.Interface/Maquisistema.Fondos.Dominio.Interface.csproj"
+    },
+    "Maquisistema.Fondos.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../Maquisistema.Fondos.Transversal.Common/Maquisistema.Fondos.Transversal.Common.csproj",
+      "msbuildProject": "../Maquisistema.Fondos.Transversal.Common/Maquisistema.Fondos.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AutoMapper >= 12.0.0",
+      "Maquisistema.Fondos.Application.DTO >= 1.0.0",
+      "Maquisistema.Fondos.Application.Interface >= 1.0.0",
+      "Maquisistema.Fondos.Dominio.Entity >= 1.0.0",
+      "Maquisistema.Fondos.Dominio.Interface >= 1.0.0",
+      "Maquisistema.Fondos.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Main\\Maquisistema.Fondos.Application.Main.csproj",
+      "projectName": "Maquisistema.Fondos.Application.Main",
+      "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Main\\Maquisistema.Fondos.Application.Main.csproj",
+      "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
+      "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\fhuamani.MAQUISISTEMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj": {
+              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj"
+            },
+            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj": {
+              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj"
+            },
+            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Entity\\Maquisistema.Fondos.Dominio.Entity.csproj": {
+              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Entity\\Maquisistema.Fondos.Dominio.Entity.csproj"
+            },
+            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Interface\\Maquisistema.Fondos.Dominio.Interface.csproj": {
+              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Interface\\Maquisistema.Fondos.Dominio.Interface.csproj"
+            },
+            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj": {
+              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[12.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

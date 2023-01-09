@@ -1,0 +1,12 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\refint\Maquisistema.Fondos.Transversal.Common.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Transversal.Common\obj\Debug\net6.0\ref\Maquisistema.Fondos.Transversal.Common.dll

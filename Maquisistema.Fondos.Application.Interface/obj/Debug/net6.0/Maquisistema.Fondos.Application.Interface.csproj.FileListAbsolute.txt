@@ -1,0 +1,17 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Application.Interface.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Application.Interface.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Application.Interface.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Application.DTO.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\bin\Debug\net6.0\Maquisistema.Fondos.Transversal.Common.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.csproj.CopyComplete
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\refint\Maquisistema.Fondos.Application.Interface.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\Maquisistema.Fondos.Application.Interface.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Application.Interface\obj\Debug\net6.0\ref\Maquisistema.Fondos.Application.Interface.dll

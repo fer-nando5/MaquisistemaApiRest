@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Maquisistema.Fondos.Infraestructura.Interface/1.0.0": {
+        "dependencies": {
+          "Maquisistema.Fondos.Dominio.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Maquisistema.Fondos.Infraestructura.Interface.dll": {}
+        }
+      },
+      "Maquisistema.Fondos.Dominio.Entity/1.0.0": {
+        "runtime": {
+          "Maquisistema.Fondos.Dominio.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maquisistema.Fondos.Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maquisistema.Fondos.Dominio.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

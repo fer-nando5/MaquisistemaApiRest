@@ -1,0 +1,12 @@
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\bin\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.deps.json
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\bin\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\bin\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.csproj.AssemblyReference.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.AssemblyInfoInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.AssemblyInfo.cs
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.csproj.CoreCompileInputs.cache
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\refint\Maquisistema.Fondos.Dominio.Entity.dll
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\Maquisistema.Fondos.Dominio.Entity.pdb
+D:\CURSO UDEMY\Prueba Net - C#\Maquisistema.Fondos\Maquisistema.Fondos.Dominio.Entity\obj\Debug\net6.0\ref\Maquisistema.Fondos.Dominio.Entity.dll

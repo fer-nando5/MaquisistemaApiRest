@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrPNiVbtp/Sv4EuLWIXypjtkxUcHVakZqWb5ZuZ1K34ERhJJ/Yv/XARbaN7Uc2RXnSe7Yb37bZTGhIGDO+LnKw==",
+  "dgSpecHash": "JtRVDz3pjsrGaTWH/9rRKO0v1hMApksyHaRuSwmM6xjiw55da6UOYCc+FvU1+En6j9B7AARDT0EZS3NDok1O0w==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -447,11 +447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
+      "projectUniqueName": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
       "projectName": "Maquisistema.Fondos.Transversal.Logging",
-      "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
+      "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
       "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Logging\\obj\\",
+      "outputPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Logging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -473,8 +473,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj": {
-              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj"
+            "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj": {
+              "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
+      "projectUniqueName": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
       "projectName": "Maquisistema.Fondos.Application.Validatores",
-      "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
+      "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Validatores\\Maquisistema.Fondos.Application.Validatores.csproj",
       "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Validatores\\obj\\",
+      "outputPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Validatores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

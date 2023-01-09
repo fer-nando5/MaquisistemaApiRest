@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwiaxytiVaviuqKPox3GvvPQovkpSFvUe3NFVvE34+tFS/uOWmAUIdSqG53fP+uk3CVhB5wL5jJF13CJ+jpzHA==",
+  "dgSpecHash": "BcBEmfC8n3J7yIdmmf5ICEWfxLJAA2tWQ7KXBbpLZajmJE/Vfeq2Z1rrcNGjh5+g9GPvMf2Lz0FJEgdba3jd2w==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

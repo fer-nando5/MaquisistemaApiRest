@@ -5044,11 +5044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Test\\Maquisistema.Fondos.Application.Test.csproj",
+      "projectUniqueName": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Test\\Maquisistema.Fondos.Application.Test.csproj",
       "projectName": "Maquisistema.Fondos.Application.Test",
-      "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Test\\Maquisistema.Fondos.Application.Test.csproj",
+      "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Test\\Maquisistema.Fondos.Application.Test.csproj",
       "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Test\\obj\\",
+      "outputPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5070,8 +5070,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj": {
-              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj"
+            "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj": {
+              "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Services.WebApi\\Maquisistema.Fondos.Services.WebApi.csproj"
             }
           }
         }

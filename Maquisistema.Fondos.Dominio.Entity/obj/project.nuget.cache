@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iWRuDikVgIEEczAOktWdRtRwPMxA4+6gwz44dkGYWksHbF7dZl5kAgWQyaKPPCydkGk4PrNdvXOLhfrUS7Sc7w==",
+  "dgSpecHash": "6HMKennO23NRClxnKUOOgZaAI67gi31AX7+W2NSgxQwclY/r5XSyZTBMYdf117wswhoa2M6Acw2KWOhCEwX0ow==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Dominio.Entity\\Maquisistema.Fondos.Dominio.Entity.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Dominio.Entity\\Maquisistema.Fondos.Dominio.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

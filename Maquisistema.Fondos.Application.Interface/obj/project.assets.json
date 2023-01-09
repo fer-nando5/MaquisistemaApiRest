@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
+      "projectUniqueName": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
       "projectName": "Maquisistema.Fondos.Application.Interface",
-      "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
+      "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
       "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\obj\\",
+      "outputPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -211,11 +211,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj": {
-              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj"
+            "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj": {
+              "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.DTO\\Maquisistema.Fondos.Application.DTO.csproj"
             },
-            "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj": {
-              "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj"
+            "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj": {
+              "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Common\\Maquisistema.Fondos.Transversal.Common.csproj"
             }
           }
         }

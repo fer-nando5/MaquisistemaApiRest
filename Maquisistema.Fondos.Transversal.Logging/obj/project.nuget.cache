@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MifmoQiELPPri1LenVzm/lVbAVqmHNt+HOt0XmIsJeesKjjCKH7sSjoA1WLvT1SoG7fbqRVTG6V4jI+rTz14RQ==",
+  "dgSpecHash": "8J5LiGfACknVKnXDi+nY/IscvXAl4UCI92bbj5NlpQD5g0WoOR0evh+kDmXOqZvo4P/YgXGxB9XjbO16XqPlmQ==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Transversal.Logging\\Maquisistema.Fondos.Transversal.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

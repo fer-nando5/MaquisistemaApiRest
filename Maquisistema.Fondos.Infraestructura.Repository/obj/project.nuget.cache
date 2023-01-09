@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dq0gVE2Bix2n41z/flHklBq3FrYe+wsjA5DQHzDVuO4bn62tykB/QOtbhwMFpGpNrGR1IAa1PXKRhysHh+Zk6A==",
+  "dgSpecHash": "tW19GfVuCG3lqx78CIcViOGBhnO9yBNFAxiXaUJJdWO1zhLNOvHzV5Hu3eSe62TpsrL/yM+H/n9uN6hm7MYY0A==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Repository\\Maquisistema.Fondos.Infraestructura.Repository.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Repository\\Maquisistema.Fondos.Infraestructura.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

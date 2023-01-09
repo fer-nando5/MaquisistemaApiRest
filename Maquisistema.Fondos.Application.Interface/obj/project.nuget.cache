@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sduDZPhvAcdpEYkbgEHANY2K3j0Pte95v0/8iXvW7HffiGbuceJOVSv1XIWgviHVX5pesxYAF2sDiHv5br8Jyg==",
+  "dgSpecHash": "FENoi3bQzqVjXJJNDZOcx6qNaLrPYGmU/mNA7pJU42ZIbjXRtt8CjzsSCTcfMgYFEHSQG4Nc+0y6sn/ouoLNBQ==",
   "success": true,
-  "projectFilePath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
+  "projectFilePath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Application.Interface\\Maquisistema.Fondos.Application.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",

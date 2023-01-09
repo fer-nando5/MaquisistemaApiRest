@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj": {}
+    "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj": {}
   },
   "projects": {
-    "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj": {
+    "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj",
+        "projectUniqueName": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj",
         "projectName": "Maquisistema.Fondos.Infraestructura.Data",
-        "projectPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj",
+        "projectPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Data\\Maquisistema.Fondos.Infraestructura.Data.csproj",
         "packagesPath": "C:\\Users\\fhuamani.MAQUISISTEMA\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSO UDEMY\\Prueba Net - C#\\Maquisistema.Fondos\\Maquisistema.Fondos.Infraestructura.Data\\obj\\",
+        "outputPath": "D:\\GITHUB\\MaquisistemaApiRest\\Maquisistema.Fondos.Infraestructura.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
